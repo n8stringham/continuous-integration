@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 
+# A comment
 def factorial(n):
     '''
     Returns the product of all numbers from 1 to n.
